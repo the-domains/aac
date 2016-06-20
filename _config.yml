@@ -1,0 +1,14 @@
+layout_spectrum: 0.06545170769095421
+typography_spectrum: 0.10414047539234161
+color:
+  brandStrength: 0.40936310519464314
+  lightness: 0.8398131870198995
+  saturation: 0.6700746400747448
+  rhythmicContrast: 0.673612124286592
+  brandColors:
+    - '#88A825'
+    - '#35203B'
+    - '#911146'
+    - '#CF4A30'
+    - '#ED8C2B'
+name: aac
