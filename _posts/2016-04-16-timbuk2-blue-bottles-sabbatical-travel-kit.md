@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-19T11:09:41.911Z'
+datePublished: '2016-08-19T11:10:18.999Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
 hasPage: true
@@ -16,7 +16,7 @@ keywords:
   - craft
 related: []
 author: []
-dateModified: '2016-08-19T11:09:41.124Z'
+dateModified: '2016-08-19T11:10:18.540Z'
 title: Timbuk2 + Blue Bottle's Sabbatical Travel Kit
 app_links: []
 publisher:
