@@ -12,4 +12,8 @@ color:
     - '#ED8C2B'
 layout_spectrum: 0.06545170769095421
 name: amstutz culture consulting
+navigation:
+  - name: 3. write.
+    id: 1bd6bb92-a045-4824-bcd3-f4b117d36774
+    type: content
 title: explore. think. write. edit. manage.
