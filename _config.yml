@@ -16,4 +16,7 @@ navigation:
   - name: 1. Explore.
     id: b9146db1-f4e8-4f99-9cc2-c7a6709f95d9
     type: content
+  - name: 2. Think.
+    id: 0ef875f5-091a-43ff-a93a-82f44d8d032c
+    type: content
 title: explore. think. write. edit. manage.
