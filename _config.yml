@@ -13,9 +13,6 @@ color:
 layout_spectrum: 0.06545170769095421
 name: amstutz culture consulting
 navigation:
-  - name: 1. explore.
-    id: b9146db1-f4e8-4f99-9cc2-c7a6709f95d9
-    type: content
   - name: 2. think.
     id: 0ef875f5-091a-43ff-a93a-82f44d8d032c
     type: content
